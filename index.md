@@ -1,10 +1,10 @@
-### About Me
+## About Me
 
 I love programming and building things. I am open to trying new ideas, languages or just technology in general. I did not switch careers or get into programming just to be hip or because it was a huge opportunity to be in a good well paying profession. I enjoyed it before I really thought about those benefits.
 
-### Projects
+## Projects
 
-#### Nerd Fonts
+### Nerd Fonts
 
 Patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
 
@@ -19,7 +19,7 @@ Patches developer targeted fonts with a high number of glyphs (icons). Specifica
 
 <br/><br/>
 
-#### VimDevIcons
+### VimDevIcons
 
 Adds file type glyphs/icons to many popular Vim plugins such as: NERDTree, vim-airline, unite, vim-startify and many more
 
