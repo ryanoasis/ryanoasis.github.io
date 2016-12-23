@@ -4,15 +4,24 @@ I love programming and building things. I am open to trying new ideas, languages
 
 ### Projects
 
-[![Nerd Fonts Logo](https://github.com/ryanoasis/nerd-fonts/raw/master/images/nerd-fonts-logo.png)](https://github.com/ryanoasis/nerd-fonts)
-[![Nerd Fonts Diagram](https://github.com/ryanoasis/nerd-fonts/wiki/screenshots/v1.0.x/custom-sankey-glyphs-combined-diagram.png)](https://github.com/ryanoasis/nerd-fonts)
+<h1 align="center">
+  <a href="https://github.com/ryanoasis/nerd-fonts"><img src="https://github.com/ryanoasis/nerd-fonts/raw/master/images/nerd-fonts-logo.png" alt="Nerd Fonts Logo" /></a>
+</h1>
 
+<p align="center">
+  <a href="https://github.com/ryanoasis/nerd-fonts"><img src="https://github.com/ryanoasis/nerd-fonts/wiki/screenshots/v1.0.x/custom-sankey-glyphs-combined-diagram.png" alt="@SankeyMATIC Diagram" /></a>
+</p>
 <sub>_Diagram created using [@SankeyMATIC](http://sankeymatic.com/)_</sub>
 
-> Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
+Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
 
+<br/><br/>
 
-[![VimDevIcons Logo](https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.8.x/branding-logo.png)](https://github.com/ryanoasis/vim-devicons)
-[![VimDevIcons](https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.8.x/overall-screenshot.png)](https://github.com/ryanoasis/vim-devicons)
+<p align="center">
+  <a href="https://github.com/ryanoasis/vim-devicons"><img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.8.x/branding-logo.png" alt="vim-devicons" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ryanoasis/vim-devicons"><img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.8.x/overall-screenshot.png" alt="vim-devicons overall screenshot" /></a>
+</p>
 
-> Adds file type glyphs/icons to many popular Vim plugins such as: NERDTree, vim-airline, unite, vim-startify and many more
+Adds file type glyphs/icons to many popular Vim plugins such as: NERDTree, vim-airline, unite, vim-startify and many more
