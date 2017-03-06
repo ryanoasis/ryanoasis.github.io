@@ -2,11 +2,12 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
+img-sm: nerd-fonts-sm.png
+img: nerd-fonts.png
+alt: Nerd Fonts Logo
+project-date: November 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Python Development
+description: 'Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher Python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more. See more at the <a href="https://github.com/ryanoasis/nerd-fonts">GitHub Repository</a> or <a href="http://nerdfonts.com">Official Site</a>'
 
 ---
