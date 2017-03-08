@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: VimDevIcons
 date: 2014-11-21
 img-sm: vimdevicons-sm.png
 img: vimdevicons.png

@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Nerd Fonts
 date: 2014-12-04
 img-sm: nerd-fonts-sm.png
 img: nerd-fonts.png

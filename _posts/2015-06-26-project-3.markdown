@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: Extra Powerline Symbols
 date: 2015-06-26
 img-sm: powerline-extra-symbols-sm.png
 img: powerline-extra-symbols.png
