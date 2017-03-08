@@ -199,6 +199,10 @@ section.success {
     margin: 0 0 15px;
 }
 
+#portfolio .portfolio-item img {
+    margin: 0 auto;
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
