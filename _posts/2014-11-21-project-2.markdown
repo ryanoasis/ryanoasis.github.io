@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2014-11-21
 img-sm: vimdevicons-sm.png
 img: vimdevicons.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Nov 21, 2014 (ongoing and active)
+client: OSS Community
 category: Vim Development
 description: 'Adds file type glyphs/icons to many popular Vim plugins such as: NERDTree, vim-airline, unite, vim-startify and many more. See <a href="https://github.com/ryanoasis/vim-devicons">VimDevIcons GitHub Page</a>.'
 
