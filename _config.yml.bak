@@ -1,8 +1,0 @@
-title: Ryan L McIntyre
-description: 
-google_analytics: 'UA-91025680-1'
-show_downloads: false
-theme: jekyll-theme-architect
-
-gems:
-  - jekyll-mentions
