@@ -7,7 +7,9 @@ Based on the Jekyll theme: [Freelancer bootstrap theme ](http://startbootstrap.c
 
 ## Running locally to test changes
 
+```sh
 jekyll s
+```
 
 
 ## Resources
