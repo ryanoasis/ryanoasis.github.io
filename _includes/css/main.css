@@ -106,6 +106,8 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+    text-transform: none;
+    font-family: inherit;
 }
 
 @media(min-width:768px) {
