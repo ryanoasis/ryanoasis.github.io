@@ -44,8 +44,46 @@ title:
    head: Ryan L McIntyre (ryanoasis) - Application Developer
 email: ryanlmcintyre@gmail.com
 url: https://ryanlmcintyre.com
-description: "I love programming and building things. I am open to trying new ideas, languages or just technology in general. I did not switch careers or get into programming just to be hip or because it was a huge opportunity to be in a good well paying profession. I enjoyed it before I really thought about those benefits."
-skills: "Application Developer - OSS Contributor - Vimmer"
+description: "Application Developer with Full Stack Experience. Creator of Nerd Fonts and VimDevIcons"
+skills:
+  heading: "Application Developer - OSS Contributor - Vimmer"
+  technical:
+     - title: "JavaScript"
+       years: 5
+       rating: 7
+       devicon: "javascript_badge"
+     - title: "AngularJS"
+       years: 1
+       rating: 5
+       devicon: "angular"
+     - title: "jQuery"
+       years: 4
+       rating: 6
+       devicon: "jquery"
+     - title: "CSS"
+       years: 8
+       rating: 8
+       devicon: "css3"
+     - title: "Git"
+       years: 6
+       rating: 7
+       devicon: "git"
+     - title: "HTML"
+       years: 8
+       rating: 8
+       devicon: "html5"
+     - title: "Python"
+       years: 3
+       rating: 6
+       devicon: "python"
+     - title: "PHP"
+       years: 3
+       rating: 6
+       devicon: "php"
+     - title: "Vim"
+       years: 3
+       rating: 7
+       devicon: "vim"
 meta_author: Ryan McIntyre
 
 # Google webmaster tools
