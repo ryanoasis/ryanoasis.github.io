@@ -93,7 +93,7 @@ google_verify: 'UA-91025680-1'
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through enformed.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
