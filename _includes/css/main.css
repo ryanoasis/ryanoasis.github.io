@@ -469,9 +469,25 @@ footer .footer-below {
 .navbar-brand {
 	height: auto;
 	min-height: 60px;
+	font-size: 15px;
 }
 
 .container {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+@media(min-width:768px) {
+
+	.navbar-fixed-top .navbar-brand {
+		font-size: 15px;
+	}
+
+}
+
+@media(min-width:992px) {
+	.navbar-fixed-top .navbar-brand {
+		font-size: 19px;
+	}
+}
+
