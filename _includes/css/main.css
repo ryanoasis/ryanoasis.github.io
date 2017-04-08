@@ -477,6 +477,12 @@ footer .footer-below {
 	padding-right: 10px;
 }
 
+b.devicons {
+	font-size: 1.8em;
+	top: 9px;
+	position: relative;
+}
+
 @media(min-width:768px) {
 
 	.navbar-fixed-top .navbar-brand {
