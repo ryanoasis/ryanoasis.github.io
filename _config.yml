@@ -84,6 +84,18 @@ skills:
        years: 3
        rating: 7
        devicon: "vim"
+     - title: "Bash"
+       years: 5
+       rating: 5
+       devicon: "terminal"
+     - title: "MySQL"
+       years: 4
+       rating: 5
+       devicon: "mysql"
+     - title: "Symfony"
+       years: 4
+       rating: 5
+       devicon: "symfony_badge"
 meta_author: Ryan McIntyre
 
 # Google webmaster tools
