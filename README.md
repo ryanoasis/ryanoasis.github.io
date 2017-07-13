@@ -16,7 +16,7 @@ bundle
 jekyll s
 ```
 
-## additional installed gems
+## Additional installed gems
 
 ```sh
 sudo gem install jekyll-sitemap
