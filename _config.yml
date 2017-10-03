@@ -47,6 +47,7 @@ url: https://ryanlmcintyre.com
 description: "Application Developer with Full Stack Experience. Creator of Nerd Fonts and VimDevIcons"
 skills:
   heading: "Application Developer - OSS Contributor - Vimmer"
+  subheading: "Application Developer with Full Stack Experience. Creator of <a href='https://nerdfonts.com/' target='_blank'>Nerd Fonts</a> and <a href='https://github.com/ryanoasis/vim-devicons/' target='_blank'>VimDevIcons</a>"
   explanation: "The following ratings are my own personal and honest ratings of my experience and skill level on various subjects:"
   technical:
      - title: "JavaScript"

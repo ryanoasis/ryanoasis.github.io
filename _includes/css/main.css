@@ -497,3 +497,7 @@ b.devicons {
 	}
 }
 
+header a, header a:hover, header a:visited {
+	text-decoration: underline;
+	color: #fff;
+}
