@@ -11,18 +11,12 @@
 									<h2 class="skills">{{ site.skills.heading }}</h2>
 									<p>{{ site.skills.subheading }}</p>
 									<br/><br/>
-									<p>{{ site.skills.explanation }}</p>
 									{% for skill in site.skills.technical %}
-										<div class="col-sm-4">
-											<h3 class="skills"><b class="devicons devicons-{{ skill.devicon }}"></b> {{ skill.title }}</h2>
-											Rating:
-											{% for num in (1..10) do %}
-												{% if num <= skill.rating %}
-												<b class="fa fa-star"></b>
-												{% else %}
-												<b class="fa fa-star-o"></b>
-												{% endif %}
-											{% endfor %}
+										<div class="col-sm-2">
+											<h3 class="skills"><b class="devicons devicons-{{ skill.devicon }}"></b>
+												<br/>
+												<br/>
+												<div>{{ skill.title }}</div></h3>
 											<br/>
 											<!-- /col -->
 										</div>
