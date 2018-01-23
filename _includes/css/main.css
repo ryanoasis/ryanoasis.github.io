@@ -501,3 +501,11 @@ header a, header a:hover, header a:visited {
 	text-decoration: underline;
 	color: #fff;
 }
+
+/*
+ * Overwrite Bootstrap for mobile
+ */
+.col-sm-2 {
+	width: 16.66666667%;
+	float: left;
+}
