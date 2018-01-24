@@ -489,6 +489,16 @@ b.devicons {
 		font-size: 15px;
 	}
 
+	.hide-on-larger-view {
+		display: none !important;
+	}
+
+}
+
+@media(max-width:767px) {
+	.hide-on-smaller-view {
+		display: none !important;
+	}
 }
 
 @media(min-width:992px) {
