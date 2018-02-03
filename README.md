@@ -1,5 +1,9 @@
 Ryan L McIntyre's ([@ryanoasis'](https://github.com/ryanoasis)) website
-========================================
+=======================================================================
+
+<h1 align="center">
+  <img src="/img/site-screenshot.png" alt="Site Screenshot" />
+</h1>
 
 Based on the Jekyll theme: [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
