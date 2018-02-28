@@ -3,12 +3,12 @@ layout: default
 modal-id: 1
 title: Nerd Fonts
 date: 2014-12-04
-img-sm: nerd-fonts-sm.png
-img: nerd-fonts.png
+img-sm: nerd-fonts-logo.svg
+img: nerd-fonts-logo.svg
 alt: Nerd Fonts Logo
 project-date: Dec 4, 2014 (ongoing and active)
 client: OSS Community
 category: Python Development
-description: 'Collection of 35+ patched fonts (over 74.5k possible variations) with a FontForge font patcher Python script for Powerline, Font Awesome, Octicons, Devicons, and other icon fonts. Includes fonts: SourceCodePro, Hack, Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolata, and more. See more at the <a href="https://github.com/ryanoasis/nerd-fonts">GitHub Repository</a> or <a href="http://nerdfonts.com">Official Site</a>'
+description: 'Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack. See more at the <a href="https://github.com/ryanoasis/nerd-fonts">GitHub Repository</a> or <a href="https://nerdfonts.com">Official Site</a>'
 
 ---

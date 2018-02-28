@@ -3,8 +3,8 @@ layout: default
 modal-id: 2
 title: VimDevIcons
 date: 2014-11-21
-img-sm: vimdevicons-sm.png
-img: vimdevicons.png
+img-sm: vimdevicons-logo.svg
+img: vimdevicons-logo.svg
 alt: image-alt
 project-date: Nov 21, 2014 (ongoing and active)
 client: OSS Community
