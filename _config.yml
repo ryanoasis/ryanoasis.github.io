@@ -49,6 +49,21 @@ skills:
   heading: "Application Developer - OSS Contributor - Vimmer"
   subheading: "Application Developer with Full Stack Experience. Creator of <a href='https://nerdfonts.com/' target='_blank'>Nerd Fonts</a> and <a href='https://github.com/ryanoasis/vim-devicons/' target='_blank'>VimDevIcons</a>"
   explanation: "The following ratings are my own personal and honest ratings of my experience and skill level on various subjects:"
+  current_focus:
+     - title: "JavaScript"
+       devicon: "javascript_badge"
+     - title: "AngularJS"
+       devicon: "angular"
+     - title: "React"
+       devicon: "react"
+     - title: "Sass"
+       devicon: "sass"
+     - title: "Python"
+       devicon: "python"
+     - title: "Vim"
+       devicon: "vim"
+     - title: "Fonts"
+       devicon: "font"
   technical:
      - title: "JavaScript"
        years: 5
@@ -82,6 +97,10 @@ skills:
        years: 3
        rating: 6
        devicon: "php"
+     - title: "Java"
+       years: 3
+       rating: 6
+       devicon: "java"
      - title: "Vim"
        years: 3
        rating: 7
