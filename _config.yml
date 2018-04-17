@@ -51,88 +51,96 @@ skills:
   explanation: "The following ratings are my own personal and honest ratings of my experience and skill level on various subjects:"
   current_focus:
      - title: "JavaScript"
-       devicon: "javascript_badge"
+       devicon: "nf-dev-javascript_badge"
      - title: "AngularJS"
-       devicon: "angular"
+       devicon: "nf-dev-angular"
      - title: "React"
-       devicon: "react"
+       devicon: "nf-dev-react"
+     - title: "Webpack"
+       devicon: "nf-mdi-webpack"
      - title: "Sass"
-       devicon: "sass"
+       devicon: "nf-dev-sass"
      - title: "Python"
-       devicon: "python"
+       devicon: "nf-dev-python"
      - title: "Vim"
-       devicon: "vim"
+       devicon: "nf-dev-vim"
      - title: "Fonts"
-       devicon: "font"
+       devicon: "nf-fa-font"
   technical:
-     - title: "JavaScript"
-       years: 5
-       rating: 7
-       devicon: "javascript_badge"
-     - title: "AngularJS"
-       years: 1
-       rating: 5
-       devicon: "angular"
-     - title: "jQuery"
-       years: 4
-       rating: 6
-       devicon: "jquery"
      - title: "CSS"
        years: 8
        rating: 8
-       devicon: "css3"
+       devicon: "nf-dev-css3"
      - title: "Git"
        years: 6
        rating: 7
-       devicon: "git"
+       devicon: "nf-dev-git"
      - title: "HTML"
        years: 8
        rating: 8
-       devicon: "code"
+       devicon: "nf-dev-code"
      - title: "Python"
        years: 3
        rating: 6
-       devicon: "python"
+       devicon: "nf-dev-python"
+     - title: "JavaScript"
+       years: 5
+       rating: 7
+       devicon: "nf-dev-javascript_badge"
+     - title: "AngularJS"
+       years: 1
+       rating: 5
+       devicon: "nf-dev-angular"
+     - title: "jQuery"
+       years: 4
+       rating: 6
+       devicon: "nf-dev-jquery"
      - title: "PHP"
        years: 3
        rating: 6
-       devicon: "php"
+       devicon: "nf-dev-php"
      - title: "Java"
        years: 3
        rating: 6
-       devicon: "java"
+       devicon: "nf-dev-java"
      - title: "Vim"
        years: 3
        rating: 7
-       devicon: "vim"
+       devicon: "nf-dev-vim"
      - title: "Bash"
        years: 5
        rating: 5
-       devicon: "terminal"
+       devicon: "nf-dev-terminal"
      - title: "MySQL"
        years: 4
        rating: 5
-       devicon: "mysql"
+       devicon: "nf-dev-mysql"
      - title: "Symfony"
        years: 4
        rating: 5
-       devicon: "symfony_badge"
+       devicon: "nf-dev-symfony_badge"
      - title: "GitHub"
        years: 5
        rating: 8
-       devicon: "github"
+       devicon: "nf-dev-github"
      - title: "Jira"
        years: 6
        rating: 8
-       devicon: "jira"
+       devicon: "nf-dev-jira"
      - title: "Subversion"
        years: 3
        rating: 4
-       devicon: ""
+       devicon: "nf-oct-diff"
      - title: "Grunt"
        years: 3
        rating: 4
-       devicon: "grunt"
+       devicon: "nf-dev-grunt"
+     - title: "Eclipse"
+       devicon: "nf-dev-eclipse"
+     - title: "Visual Studio"
+       devicon: "nf-dev-visualstudio"
+     - title: "Jekyll"
+       devicon: "nf-dev-jekyll_small"
 
 meta_author: Ryan McIntyre
 

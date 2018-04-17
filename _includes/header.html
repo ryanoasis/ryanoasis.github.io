@@ -13,8 +13,8 @@
 									<br/><br/>
 									<h3>Current Focus</h3>
 									{% for skill in site.skills.current_focus %}
-										<div class="col-lg-2 col-sm-6">
-											<h3 class="skills"><b class="devicons devicons-{{ skill.devicon }}"></b>
+										<div class="col-lg-2 col-md-3 col-sm-3 col-xs-4">
+											<h3 class="skills"><b class="nerd-fonts {{ skill.devicon }}"></b>
 												<br/>
 												<div>{{ skill.title }}</div></h3>
 											<br/>
@@ -26,8 +26,8 @@
 								<div class="row">
 									<h3>Experience with</h3>
 									{% for skill in site.skills.technical %}
-										<div class="col-lg-2 col-sm-6">
-											<h3 class="skills"><b class="devicons devicons-{{ skill.devicon }}"></b>
+										<div class="col-lg-2 col-md-3 col-sm-3 col-xs-4">
+											<h3 class="skills"><b class="nerd-fonts {{ skill.devicon }}"></b>
 												<br/>
 												<div>{{ skill.title }}</div></h3>
 											<br/>

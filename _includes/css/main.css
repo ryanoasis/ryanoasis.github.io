@@ -483,6 +483,10 @@ b.devicons {
 	position: relative;
 }
 
+.nerd-fonts {
+	font-size: 2.2em;
+}
+
 @media(min-width:768px) {
 
 	.navbar-fixed-top .navbar-brand {
