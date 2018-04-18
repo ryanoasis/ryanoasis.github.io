@@ -501,7 +501,8 @@ b.devicons {
 
 }
 
-@media(max-width:767px) {
+/* smaller than or equal to 990px */
+@media(max-width:990px) {
 	.hide-on-smaller-view {
 		display: none !important;
 	}
