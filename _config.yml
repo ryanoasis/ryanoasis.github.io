@@ -68,72 +68,38 @@ skills:
        devicon: "nf-fa-font"
   technical:
      - title: "CSS"
-       years: 8
-       rating: 8
        devicon: "nf-dev-css3"
      - title: "Git"
-       years: 6
-       rating: 7
        devicon: "nf-dev-git"
      - title: "HTML"
-       years: 8
-       rating: 8
        devicon: "nf-dev-code"
      - title: "Python"
-       years: 3
-       rating: 6
        devicon: "nf-dev-python"
      - title: "JavaScript"
-       years: 5
-       rating: 7
        devicon: "nf-dev-javascript_badge"
      - title: "AngularJS"
-       years: 1
-       rating: 5
        devicon: "nf-dev-angular"
      - title: "jQuery"
-       years: 4
-       rating: 6
        devicon: "nf-dev-jquery"
      - title: "PHP"
-       years: 3
-       rating: 6
        devicon: "nf-dev-php"
      - title: "Java"
-       years: 3
-       rating: 6
        devicon: "nf-dev-java"
      - title: "Vim"
-       years: 3
-       rating: 7
        devicon: "nf-dev-vim"
      - title: "Bash"
-       years: 5
-       rating: 5
        devicon: "nf-dev-terminal"
      - title: "MySQL"
-       years: 4
-       rating: 5
        devicon: "nf-dev-mysql"
      - title: "Symfony"
-       years: 4
-       rating: 5
        devicon: "nf-dev-symfony_badge"
      - title: "GitHub"
-       years: 5
-       rating: 8
        devicon: "nf-dev-github"
      - title: "Jira"
-       years: 6
-       rating: 8
        devicon: "nf-dev-jira"
      - title: "Subversion"
-       years: 3
-       rating: 4
        devicon: "nf-oct-diff"
      - title: "Grunt"
-       years: 3
-       rating: 4
        devicon: "nf-dev-grunt"
      - title: "Eclipse"
        devicon: "nf-dev-eclipse"
