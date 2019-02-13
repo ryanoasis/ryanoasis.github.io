@@ -1,5 +1,13 @@
 $(function() {
 
+    $("#contactForm").submit(function(event) {
+
+       var recaptcha = $("#g-recaptcha-response").val();
+       if (recaptcha === "") {
+          event.preventDefault();
+       }
+    });
+
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {

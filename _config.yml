@@ -167,6 +167,8 @@ contact: static
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
 
+reCAPTCHA_site_key: 6LdfH5EUAAAAANTWUox7x93oB4PGWGCRJ226vhjb
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
