@@ -52,8 +52,8 @@ skills:
   current_focus:
      - title: "JavaScript"
        devicon: "nf-dev-javascript_badge"
-     - title: "AngularJS"
-       devicon: "nf-dev-angular"
+     - title: "Docker"
+       devicon: "nf-linux-docker"
      - title: "React"
        devicon: "nf-dev-react"
      - title: "Webpack"
