@@ -9,6 +9,12 @@
                 </div>
             </div>
             <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>The following are my featured OSS projects that I have worked on:</p>
+						  <br/><br/>
+                </div>
+            </div>
+            <div class="row">
                 {% for post in site.posts reversed %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -21,6 +27,12 @@
                         </a>
                     </div>
                 {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+						  <p>not listed here are the many private or closed source projects I have worked on professionally.</p>
+                    <p>To see my professional work and samples please contact me below.</p>
+                </div>
             </div>
         </div>
     </section>
