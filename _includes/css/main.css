@@ -85,6 +85,12 @@ header {
     background: #{{ site.color.primary }};
 }
 
+#skillset {
+    text-align: center;
+    color: #fff;
+    background: #{{ site.color.primary }};
+}
+
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -103,7 +109,7 @@ header .intro-text .name {
     font-weight: 700;
 }
 
-header .intro-text .skills {
+section .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
     text-transform: none;
