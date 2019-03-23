@@ -286,6 +286,20 @@ section.success {
     background: #fff;
 }
 
+#contact_basic .btn-outline {
+    color: #2c3e50;
+    border-color: #2c3e50;
+}
+
+#contact_basic .btn-outline:hover,
+#contact_basic .btn-outline:focus,
+#contact_basic .btn-outline:active,
+#contact_basic .btn-outline.active {
+    border: solid 2px #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background: #fff;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
