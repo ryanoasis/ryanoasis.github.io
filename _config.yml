@@ -138,15 +138,6 @@ footer:
   social: Around the Web
   credits: Credits
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/ryanlmcintyre
-  - title: stack-overflow
-    url: http://meta.stackoverflow.com/users/436159/ryanoasis
-  - title: bitbucket
-    url: https://bitbucket.org/ryanoasis
-
 meta_author: Ryan McIntyre
 
 # Google webmaster tools
@@ -183,14 +174,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/ryanlmcintyre
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryanlmcintyre/
   - title: stack-overflow
     url: http://meta.stackoverflow.com/users/436159/ryanoasis
-  - title: bitbucket
-    url: https://bitbucket.org/ryanoasis
   - title: github
     url: http://github.com/ryanoasis
+
+social-contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryanlmcintyre/
 
 # Postal address (add as many lines as necessary)
 address:

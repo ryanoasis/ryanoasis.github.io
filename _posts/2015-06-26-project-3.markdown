@@ -7,6 +7,7 @@ img-sm: powerline-extra-symbols-sm.png
 img: powerline-extra-symbols.png
 alt: image-alt
 project-date: Jun 26, 2015 (ongoing and not-so-active)
+project-url: https://github.com/ryanoasis/powerline-extra-symbols/
 client: OSS Community
 category: CLI Development
 description: 'Adds extra glyphs for your powerline separators. See <a href="https://github.com/ryanoasis/powerline-extra-symbols">Powerline Extra Symbols GitHub Page</a>.'

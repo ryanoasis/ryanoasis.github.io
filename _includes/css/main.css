@@ -286,7 +286,7 @@ section.success {
     background: #fff;
 }
 
-#contact_basic .btn-outline {
+.btn-outline.alt {
     color: #2c3e50;
     border-color: #2c3e50;
 }

@@ -7,6 +7,7 @@ img-sm: vimdevicons-logo.svg
 img: vimdevicons-logo.svg
 alt: image-alt
 project-date: Nov 21, 2014 (ongoing and active)
+project-url: https://github.com/ryanoasis/vim-devicons/
 client: OSS Community
 category: Vim Development
 description: 'Adds file type glyphs/icons to many popular Vim plugins such as: NERDTree, vim-airline, unite, vim-startify and many more. See <a href="https://github.com/ryanoasis/vim-devicons">VimDevIcons GitHub Page</a>.'

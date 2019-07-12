@@ -7,6 +7,7 @@ img-sm: nerd-fonts-logo.svg
 img: nerd-fonts-logo.svg
 alt: Nerd Fonts Logo
 project-date: Dec 4, 2014 (ongoing and active)
+project-url: https://github.com/ryanoasis/nerd-fonts/
 client: OSS Community
 category: Python Development
 description: 'Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack. See more at the <a href="https://github.com/ryanoasis/nerd-fonts">GitHub Repository</a> or <a href="https://nerdfonts.com">Official Site</a>'

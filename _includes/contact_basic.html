@@ -11,9 +11,9 @@
                <div class="col-lg-8 col-lg-offset-2">
                  <div id="contact_basic">
                    <ul class="list-inline text-center">
-                       {% for network in site.social %}
+                       {% for network in site.social-contact %}
                        <li>
-                           <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                           <a href="{{ network.url }}" class="btn-social btn-outline alt"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                        </li>
                        {% endfor %}
                    </ul>
