@@ -8,8 +8,8 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2 text-center">
+            <div class="row text-center">
+                <div>
                     <p>The following are my featured OSS projects that I have worked on:</p>
 						  <br/><br/>
                 </div>
@@ -24,12 +24,30 @@
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img-sm }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
+								</a>
+								<br/>
+								 <div>
+									 <p>{{ post.description }}</p>
+									 <ul class="list-inline item-details">
+										  <li>Client:
+												<strong>{{ post.client }}
+												</strong>
+										  </li>
+										  <li>Date:
+												<strong>{{ post.project-date }}
+												</strong>
+										  </li>
+										  <li>Service:
+												<strong>{{ post.category }}
+												</strong>
+										  </li>
+									 </ul>
+								 </div>
                     </div>
                 {% endfor %}
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2 text-center">
+            <div class="row text-center">
+                <div>
 						  <p>Not listed here are the many private or closed source projects I have worked on professionally.</p>
                     <p>To see my professional work and samples please contact me below.</p>
                 </div>
