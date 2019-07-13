@@ -28,21 +28,12 @@
 								<br/>
 								 <div>
 									 <p>{{ post.description }}</p>
-									 <ul class="list-inline item-details">
-										  <li>Client:
-												<strong>{{ post.client }}
-												</strong>
-										  </li>
-										  <li>Date:
-												<strong>{{ post.project-date }}
-												</strong>
-										  </li>
-										  <li>Service:
-												<strong>{{ post.category }}
-												</strong>
-										  </li>
-									 </ul>
-									 <a href="{{ post.project-url }}" class="btn-social btn-outline alt"><i class="fa fa-fw fa-github"></i></a>
+									 <p class="text-center">
+										 <a href="{{ post.project-url }}" target="_blank" class="btn-social btn-outline alt"><i class="fa fa-fw fa-github"></i></a>
+										 {% if post.project-website-url %}
+										 <a href="{{ post.project-website-url }}" target="_blank" class="btn-social btn-outline alt"><i class="nf nf-mdi-web"></i></a>
+										 {% endif %}
+									 </p>
 								 </div>
                     </div>
                 {% endfor %}
