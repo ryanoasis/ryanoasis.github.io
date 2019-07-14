@@ -512,6 +512,11 @@ footer .footer-below {
 	height: auto;
 	min-height: 60px;
 	font-size: 15px;
+	padding: 8.5px 15px 8.5px;
+}
+
+.navbar-brand img, .navbar-brand span {
+	line-height: 43px;
 }
 
 .container {
