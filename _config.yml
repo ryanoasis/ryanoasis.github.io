@@ -180,7 +180,7 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/ryanlmcintyre/
-  - title: stack-overflow
+  - title: stack_overflow
     url: http://meta.stackoverflow.com/users/436159/ryanoasis
   - title: github
     url: http://github.com/ryanoasis

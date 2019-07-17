@@ -519,6 +519,18 @@ footer .footer-below {
 	line-height: 43px;
 }
 
+/* adjust header on mobile */
+@media screen and (max-width:800px) {
+    .navbar-brand span {
+        line-height: 16px;
+        display: inline-block;
+        width: 225px;
+        word-break: break-word;
+        top: 8px;
+        position: relative;
+    }
+}
+
 .container {
 	padding-left: 10px;
 	padding-right: 10px;
