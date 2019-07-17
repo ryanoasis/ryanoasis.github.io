@@ -39,6 +39,7 @@ exclude:
 
 # Site settings
 title:
+   short: Ryan L McIntyre - App Dev
    navbar: Ryan L McIntyre - App Developer
    header: Ryan L McIntyre - Application Developer
    head: Ryan L McIntyre - Web Application Developer
@@ -50,10 +51,12 @@ skills:
   current_focus:
      - title: "JavaScript"
        devicon: "nf-dev-javascript_badge"
-     - title: "Docker"
-       devicon: "nf-linux-docker"
      - title: "React"
        devicon: "nf-dev-react"
+     - title: "Redux"
+       devicon: "nf-custom-electron" # close enough for now
+     - title: "Docker"
+       devicon: "nf-linux-docker"
      - title: "Webpack"
        devicon: "nf-mdi-webpack"
      - title: "Sass"
@@ -188,7 +191,7 @@ social-contact:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Seattle, WA 98121
+  - line: Seattle, WA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
