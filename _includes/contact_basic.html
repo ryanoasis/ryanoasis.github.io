@@ -13,7 +13,7 @@
                    <ul class="list-inline text-center">
                        {% for network in site.social-contact %}
                        <li>
-                           <a href="{{ network.url }}" class="btn-social btn-outline alt"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                           <a href="{{ network.url }}" aria-label="Go to social site {{ network.url }}" class="btn-social btn-outline alt"><i class="nf nf-fa-{{ network.title }}"></i></a>
                        </li>
                        {% endfor %}
                    </ul>

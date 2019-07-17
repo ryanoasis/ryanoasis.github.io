@@ -45,7 +45,7 @@ title:
 url: https://ryanlmcintyre.com
 description: "Full Stack Web Application Developer. Creator of Nerd Fonts and VimDevIcons"
 skills:
-  subheading: "Full Stack Web Application Developer. Creator of <a href='https://nerdfonts.com/' target='_blank'>Nerd Fonts</a> and <a href='https://github.com/ryanoasis/vim-devicons/' target='_blank'>VimDevIcons</a>"
+  subheading: "Full Stack Web Application Developer. Creator of <a href='https://nerdfonts.com/' rel='noreferrer' target='_blank' >Nerd Fonts</a> and <a href='https://github.com/ryanoasis/vim-devicons/' rel='noreferrer' target='_blank'>VimDevIcons</a>"
   explanation: "The following ratings are my own personal and honest ratings of my experience and skill level on various subjects:"
   current_focus:
      - title: "JavaScript"
@@ -160,10 +160,11 @@ reCAPTCHA_site_key: 6LdfH5EUAAAAANTWUox7x93oB4PGWGCRJ226vhjb
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: "006156" #00897c #18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+  secondary-light: D1D1D1
 
 # Footer settings
 footer:

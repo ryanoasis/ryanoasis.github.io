@@ -9,36 +9,40 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <div class="navbar-brand"><img src="img/brand-logo.svg" /><span>&nbsp;{{ site.title.navbar }}</span></div>
+                <div class="navbar-brand">
+                    <img src="img/brand-logo.svg" alt="&lt;RLM} Brand Logo" />
+                    <span class="hide-on-larger-view">&nbsp;{{ site.title.header }}</span>
+                    <span class="hide-on-smaller-view">&nbsp;{{ site.title.header }}</span>
+                </div>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="#page-top"></a>
+                        <a href="#page-top" aria-label="Go to the top of the page"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio"><b class="fa fa-picture-o"></b> Portfolio</a>
+                        <a href="#portfolio" aria-label="Go to Portfolio Section"><b class="fa fa-picture-o"></b> Portfolio</a>
                     </li>
                     <li class="page-scroll dropdown hide-on-smaller-view">
 							  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								  <b class="fa fa-file-text-o"></b> Resume
                         <ul class="dropdown-menu navbar-default" aria-labelledby="dLabel">
-									<li><a href="RyanLMcIntyre-cv-resume.pdf"><b class="fa fa-file-pdf-o"></b> Resume <small>(PDF)</small></a></li>
-									<li><a href="RyanLMcIntyre-cv-resume.docx"><b class="fa fa-file-word-o"></b> Resume <small>(Word - DOCX)</small></a></li>
+									<li><a href="RyanLMcIntyre-cv-resume.pdf" aria-label="Download Ryan L McIntyre CV Resume in PDF format"><b class="fa fa-file-pdf-o"></b> Resume <small>(PDF)</small></a></li>
+									<li><a href="RyanLMcIntyre-cv-resume.docx" aria-label="Download Ryan L McIntyre CV Resume in Word format"><b class="fa fa-file-word-o"></b> Resume <small>(Word - DOCX)</small></a></li>
                         </ul>
                     </li>
 						  <li class="page-scroll hide-on-larger-view">
-								<a href="RyanLMcIntyre-cv-resume.pdf"><b class="fa fa-file-pdf-o"></b> Resume <small>(PDF)</small></a>
+								<a href="RyanLMcIntyre-cv-resume.pdf" aria-label="Download Ryan L McIntyre CV Resume in PDF format"><b class="fa fa-file-pdf-o"></b> Resume <small>(PDF)</small></a>
 						  </li>
 						  <li class="page-scroll hide-on-larger-view">
-								<a href="RyanLMcIntyre-cv-resume.docx"><b class="fa fa-file-word-o"></b> Resume <small>(Word - DOCX)</small></a>
+								<a href="RyanLMcIntyre-cv-resume.docx" aria-label="Download Ryan L McIntyre CV Resume in Word format"><b class="fa fa-file-word-o"></b> Resume <small>(Word - DOCX)</small></a>
 						  </li>
                     <li class="page-scroll hide-on-smaller-view">
-                        <a href="#about"><b class="fa fa-user"></b> About</a>
+                        <a href="#about" aria-label="Go to About Section"><b class="fa fa-user"></b> About</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact"><b class="fa fa-envelope-o"></b> Contact</a>
+                        <a href="#contact" aria-label="Go to Contact Section"><b class="fa fa-envelope-o"></b> Contact</a>
                     </li>
                 </ul>
             </div>
