@@ -146,6 +146,8 @@ meta_author: Ryan McIntyre
 # Google webmaster tools
 google_verify: 'UA-91025680-1'
 
+google_analytics_key: "UA-91025680-1"
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
