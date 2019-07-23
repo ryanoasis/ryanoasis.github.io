@@ -188,6 +188,8 @@ social:
     url: http://github.com/ryanoasis
 
 social-contact:
+  - title: envelope
+    url: "mailto:ryan@ryanlmcintyre.com"
   - title: linkedin
     url: https://www.linkedin.com/in/ryanlmcintyre/
 
