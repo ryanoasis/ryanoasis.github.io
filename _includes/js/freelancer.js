@@ -13,6 +13,11 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         if ($($anchor.attr('href')).length) {
             event.preventDefault();
+            gtag('event', 'click', {
+                event_category: 'top-nav',
+                event_label: 'Top Nav : ' + event.target.hash.slice(1),
+                value: event.target.hash.slice(1)
+            });
         }
     });
 });
